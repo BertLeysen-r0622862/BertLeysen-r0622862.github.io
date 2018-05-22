@@ -590,6 +590,7 @@
 }
 .fa-linkedin-square:before {
   content: "\f08c";
+  
 }
 .fa-thumb-tack:before {
   content: "\f08d";
@@ -800,7 +801,9 @@
   content: "\f0e0";
 }
 .fa-linkedin:before {
-  content: "\f0e1";
+  content: "In";
+  
+    
 }
 .fa-rotate-left:before,
 .fa-undo:before {

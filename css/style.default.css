@@ -776,6 +776,9 @@ FOOTER
 #footer p.social a.email {
   background-color: #4a7f45;
 }
+#footer p.social a.linkedin {
+  background-color: #0077B5;
+}
 @media (max-width: 767px) {
   #footer p.social {
     text-align: center;
